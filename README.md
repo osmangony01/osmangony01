@@ -7,7 +7,7 @@ Welcome! I'm a passionate computer science graduate student and have strong prob
 Beyond my technical expertise, I am a strong advocate for effective communication and collaboration. I have had the privilege of working in diverse teams, collaborating with designers, front-end developers, and stakeholders. When I'm not coding, you can find me exploring new technologies, attending tech conferences, or participating in hackathons. I believe in the power of technology to transform lives and am excited about contributing to innovative solutions that make a positive impact in the world.
 
 
-Skills: JavaScript / React JS / NodeJS / Express JS / MongoDB / Python / Redux / NextJS / CSS / HTML / MySql / AWS
+Skills: Python / JavaScript / React JS / NodeJS / Express JS / MongoDB / MySql / Redux / NextJS / CSS / HTML / AWS
 
 - 🌱 I’m currently learning Next JS 
 - 👯 I’m looking to collaborate on GitHub 
