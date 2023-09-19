@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Md Osman Gony
-#### Full Stack Developer
+#### Software Engineer
 
 Welcome! I'm a passionate computer science graduate student and have strong problem-solving skills. I am also specializing in web development with expertise in the MERN stack. I am driven by my love for building innovative web applications and solving complex problems. Throughout my career journey, I have honed my skills in full-stack web development using the MERN stack (MongoDB, Express.js, React, Node.js). My journey as a MERN stack developer has been enriched by practical experiences. I have successfully completed multiple projects, ranging from building dynamic platforms to developing responsive web applications. 
 
