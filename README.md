@@ -1,13 +1,13 @@
 ### Hi there 👋, I'm Md Osman Gony
 #### Software Engineer
 
-Welcome! I'm a passionate computer science graduate student and have strong problem-solving skills. I am also specializing in web development with expertise in the MERN stack. I am driven by my love for building innovative web applications and solving complex problems. Throughout my career journey, I have honed my skills in full-stack web development using the MERN stack (MongoDB, Express.js, React, Node.js). My journey as a MERN stack developer has been enriched by practical experiences. I have successfully completed multiple projects, ranging from building dynamic platforms to developing responsive web applications. 
+Welcome! I'm a passionate computer science graduate student and have strong problem-solving skills. I am also specializing in web development with expertise in the MERN stack. I am driven by my love for building innovative web applications and solving complex problems. Throughout my career journey, I have honed my skills in full-stack web development using the MERN stack (MongoDB, Express.js, React, Node.js) and Python. I also have good knowledge of AWS and enjoy making scalable robust web applications. 
 
 
 Beyond my technical expertise, I am a strong advocate for effective communication and collaboration. I have had the privilege of working in diverse teams, collaborating with designers, front-end developers, and stakeholders. When I'm not coding, you can find me exploring new technologies, attending tech conferences, or participating in hackathons. I believe in the power of technology to transform lives and am excited about contributing to innovative solutions that make a positive impact in the world.
 
 
-Skills: Python / JavaScript / React JS / NodeJS / Express JS / MongoDB / MySql / Redux / NextJS / CSS / HTML / AWS
+Skills: Python / JavaScript / ReactJS / NodeJS / ExpressJS / MongoDB / MySql / Redux / NextJS / Django / CSS / HTML / AWS
 
 - 🌱 I’m currently learning Next JS 
 - 👯 I’m looking to collaborate on GitHub 
